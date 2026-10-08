@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Web | Estudante de ADS
 
-Sou um desenvolvedor com foco em resultados rápidos e visuais. Atualmente, atuo na agência **Is Help**, onde crio landing pages dinâmicas e de alto impacto para clientes e negócios locais, utilizando ferramentas de IA para acelerar a entrega de valor sem depender de backends complexos.
+Sou um desenvolvedor com foco em resultados rápidos e visuais. Atualmente, atuo na agência **Is Help**, onde crio landing pages dinâmicas e de altas conversões para clientes e negócios locais, utilizando ferramentas de IA para acelerar a entrega de valor sem depender de backends complexos.
 
 No entanto, meu objetivo atual é dominar o "debaixo do capô". Estou construindo uma base técnica forte para ter autonomia de ponta a ponta no desenvolvimento.
 
@@ -38,5 +38,5 @@ No entanto, meu objetivo atual é dominar o "debaixo do capô". Estou construind
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Fhelipe Abel](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
-- **E-mail:** [SEU EMAIL PROFISSIONAL AQUI]
+- **LinkedIn:** [Fhelipe Abel](https://www.linkedin.com/in/fhelipeabel)
+- **E-mail:** abelfhp@gmail.com
