@@ -1,24 +1,21 @@
 # Olá, eu sou o Fhelipe Abel! 👋
 
-### Desenvolvedor Web | Estudante de ADS
+### Desenvolvedor em Formação | Estudante de ADS
 
-Sou um desenvolvedor com foco em resultados rápidos e visuais. Atualmente, atuo na agência **Is Help**, onde crio landing pages dinâmicas e de altas conversões para clientes e negócios locais, utilizando ferramentas de IA para acelerar a entrega de valor sem depender de backends complexos.
-
-No entanto, meu objetivo atual é dominar o "debaixo do capô". Estou construindo uma base técnica forte para ter autonomia de ponta a ponta no desenvolvimento.
+Sou focado em construir uma base técnica sólida para o desenvolvimento de software de ponta a ponta. Atualmente, dedico minha rotina a aprofundar meus conhecimentos práticos e teóricos, com o objetivo de ter total autonomia estrutural na criação de sistemas e resolver problemas complexos através de código limpo.
 
 ---
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Anhanguera.
-- 🛡️ Desenvolvendo fluência técnica e prática através do **The Odin Project**.
-- 💻 Atualmente mergulhando nos fundamentos do **Python** e da estruturação lógica de sistemas.
-- 🎯 Foco principal: Unir a agilidade e o design do front-end com um raciocínio lógico sólido no back-end.
+- 🛡️ Desenvolvendo fluência técnica e prática de programação com o **The Odin Project**.
+- 💻 Atualmente mergulhando nos fundamentos de **Python** e estruturação de lógica de back-end.
+- 🎯 Foco principal: Dominar a base da programação para criar soluções escaláveis, indo muito além das ferramentas prontas.
 
 ---
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-<!-- Você pode adicionar ou remover as badges abaixo conforme o que você já usa -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Fhelipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fhelipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -38,5 +35,5 @@ No entanto, meu objetivo atual é dominar o "debaixo do capô". Estou construind
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Fhelipe Abel](https://www.linkedin.com/in/fhelipeabel)
-- **E-mail:** abelfhp@gmail.com
+- **LinkedIn:** [Fhelipe Abel](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
+- **E-mail:** [SEU EMAIL AQUI]
